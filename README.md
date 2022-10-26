@@ -1,3 +1,3 @@
-# p5js_animation
+# p5js_video
 
-This is the start of an animation tutorial, based on https://www.youtube.com/watch?v=1lW-NLel1G8
+A simple template for using webcam video in p5js. You can create your own repo from this template or just copy/paste the code from sketch.js.
